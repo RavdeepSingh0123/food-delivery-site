@@ -9,12 +9,12 @@
 }
 /* home section */
 #home{
-    height: 370px;
+    height: 420px;
     padding: 3px 68px;
 
 }
 #home::before{
-    height: 380px;
+    height: 420px;
 }
 #home p{
     font-size: 13px;
